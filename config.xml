@@ -1,0 +1,10 @@
+<Config>
+	<UIPanel name="backGround" resizable="1" scaleX="1" scaleY="1" scaleWidth="1" scaleHeight="1"/>
+	<UIPanel name="backGround2" resizable="1" scaleX="1" scaleY="1" scaleWidth="1" scaleHeight="1"/>
+	<UIPanel name="greenBack" resizable="1" scaleX="0" scaleY="0" scaleWidth="768" scaleHeight="1024"/>
+	<UIPanel name="pause" resizable="1" scaleX="0" scaleY="0" scaleWidth="40" scaleHeight="40"/>
+	<UIPanel name="restart" resizable="1" scaleX="0" scaleY="0" scaleWidth="40" scaleHeight="40"/>
+	<UIPanel name="Restart1"/>
+	<UIPanel name="Resume"/>
+	<UIPanel name="Menu"/>
+</Config>

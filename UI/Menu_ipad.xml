@@ -1,0 +1,5 @@
+<UIPanel id="instance676" x="103" y="31" width="768" height="1024" skin="greenBack">
+  <Button id="btn_startGame" x="312.5" y="655.5" width="155" height="43" label="Start Game" skin="" textFormat="Score" disabledTextFormat=""/>
+  <Button id="btn_leaderboard" x="311.5" y="752.5" width="157" height="43" label="Leaderboard" skin="" textFormat="Score" disabledTextFormat=""/>
+  <Button id="btn_help" x="312.5" y="855.5" width="157" height="43" label="Help" skin="" textFormat="Score" disabledTextFormat=""/>
+</UIPanel>

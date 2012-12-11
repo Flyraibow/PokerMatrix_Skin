@@ -1,0 +1,7 @@
+<UIPanel id="pan_background" x="18.5" y="21.5" width="768" height="1024" skin="greenBack">
+  <UIPanel id="pan_card" x="91.5" y="71" width="600" height="919" skin=""/>
+  <Label id="lab_score" x="311" y="21.5" width="153" height="28" label="&#xD;" textFormat="Score" disabledTextFormat=""/>
+  <UIPanel id="pan_pause" x="704.5" y="12.5" width="40" height="40" skin="pause"/>
+  <Label id="instance545" x="3.5" y="16" width="81" height="35" label="Moves:" textFormat="Score" disabledTextFormat=""/>
+  <Label id="lab_moves" x="83.5" y="14.5" width="114" height="38" label="" textFormat="Score" disabledTextFormat=""/>
+</UIPanel>

@@ -1,0 +1,5 @@
+<UIPanel id="pan_pause" x="76" y="138" width="640" height="960" skin="backGround2">
+  <UIPanel id="btn_restart" x="220.5" y="458" width="203" height="40" skin="Restart1"/>
+  <UIPanel id="btn_resume" x="221" y="322" width="188" height="42" skin="Resume"/>
+  <UIPanel id="btn_menu" x="255" y="589" width="132" height="42" skin="Menu"/>
+</UIPanel>
